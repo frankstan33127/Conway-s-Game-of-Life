@@ -2,7 +2,7 @@
 
 Made using Python's standard library. 
 
-For the Glider Animation, the width and height are preset.
+For the Glider Animation and Garden of Eden, the width and height are preset.
 
 For the Conway's Game of Life : input the width in first and press ENTER and next type in the height and press ENTER.
 
