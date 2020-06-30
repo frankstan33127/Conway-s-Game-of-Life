@@ -6,7 +6,7 @@ For the Glider Animation and Garden of Eden, the width and height are preset.
 
 For the Conway's Game of Life : input the width in first and press ENTER and next type in the height and press ENTER.
 
-The width and height must be atleast 1 and do not have to be necessarily equal to each other. 
+The width and height must be at least 1 and do not have to be necessarily equal to each other. 
 
 After this the type of input is asked. If you type A and press ENTER, an automatically generated random grid will be generated. 
 
